@@ -4,8 +4,8 @@ const licenses = {
     dob: "15 JAN 1997",
     bloodGroup: "B+",
     father: "BADUL MIAH",
-    issueDate: "2023-03-23",
-    expiryDate: "2028-03-22",
+    issueDate: "23 MAR 2023",
+    expiryDate: "22 MAR 2028",
     licenseNumber: "DK0897294CH0874",
     issuingAuthority: "DHAKA METRO 1 BRTA",
     address: "JATRAPUR, ASHUGANJ, BRAHMANBARIA"
