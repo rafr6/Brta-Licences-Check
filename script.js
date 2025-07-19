@@ -1,14 +1,14 @@
 const licenses = {
   "DK0897294CH0874": {
-    name: "Md. Rahim Uddin",
-    dob: "1990-01-01",
+    name: "BADUL MIAH",
+    dob: "15 JAN 1997",
     bloodGroup: "B+",
-    father: "Abdul Karim",
-    issueDate: "2020-01-01",
-    expiryDate: "2030-01-01",
+    father: "AJHARUL ISLAM",
+    issueDate: "2023-03-23",
+    expiryDate: "2028-03-22",
     licenseNumber: "DK0897294CH0874",
-    issuingAuthority: "BRTA, Dhaka",
-    address: "123, Mirpur Road, Dhaka"
+    issuingAuthority: "DHAKA METRO 1 BRTA",
+    address: "JATRAPUR, ASHUGANJ, BRAHMANBARIA"
   }
 };
 
